@@ -1,6 +1,6 @@
 # Hi there, I'm Andre Zeni! 👋
 
-## 📊 Data Analyst & Business Intelligence Specialist
+## 📊 Data Analyst & Business Intelligence
 
 With 9+ years of experience in Sales & Strategy, I specialize in transforming complex data into actionable business insights.
 
