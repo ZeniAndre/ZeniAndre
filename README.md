@@ -29,7 +29,7 @@ With 9+ years of experience in Sales & Strategy, I specialize in transforming co
 - 🌍 Location: Rennes, France
 
 ### 🎓 Currently Learning
-- Google Data Analytics Professional Certificate (Completing March 2025)
+- Google Data Analytics Professional Certificate (Completing Jul 2025)
 - Advanced Business Intelligence Techniques
 
 ---
